@@ -1,0 +1,30 @@
+*{
+  margin: 5px;
+  padding:1px;
+}
+
+.col-sm-2 {
+  display:inline-block;
+  width: 90px;
+}
+.first {
+  display:inline-block;
+  
+}
+
+textarea{
+  width: 260px;
+  height: 70px;
+}
+
+
+body{
+  width: 25%;
+  border: 1px solid black;
+ 
+  
+}
+
+form{
+  background-color: lightgrey;
+}

@@ -1,0 +1,27 @@
+body{
+    /* border: 1px solid black; */
+    width: 50%;
+    text-align: center;
+}
+
+*{
+    margin:5px;
+}
+
+
+h1{
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+#picture{
+    
+     padding: 1px;
+     background:url(forms.jpg);
+     background-repeat: no-repeat;
+     background-size: 700px,500px
+}
+
+form{
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

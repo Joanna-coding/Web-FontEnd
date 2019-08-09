@@ -1,0 +1,89 @@
+/*CSS reset settings here*/
+*{
+    margin: 3px;
+    padding: 1px;
+    color: azure;
+    
+   }
+   #wrapper{
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+    background-color: darkslategrey;
+    
+   }
+
+   #container{
+       width: 99%;
+
+   }
+   #header{
+    width:99%;
+    height: 76px;
+    background-color:red;
+    border-radius: 15px;
+   }
+
+   h1{
+       position: relative;
+       left:5px;
+       top:10px;
+
+   }
+
+   h3{
+    position: relative;
+    left:5px;
+    top:5px;
+
+    }
+   #middle{
+       display: inline-flex;
+   }
+
+   #navigation{
+    height: 220px;
+    width: 200px;
+    border-radius: 15px;
+    background-color: darkolivegreen;
+   
+    
+   }
+
+   ul.a {
+    list-style-type: circle;
+  }
+
+   ul{
+       position: relative;
+       left:20px;
+   }
+
+  
+   #main_content{
+    height: 400px;
+    width: 700px;
+    background-color: red;
+    border-radius: 15px;
+    margin-left:15px;
+    background-color: black;
+    
+   }
+
+   .forLi{
+        position: relative;
+        top: 15px;
+   }
+   
+   #footer{
+    min-height: 70px;
+    border-radius: 15px;
+   
+    background-color: grey;
+   }
+
+   p{
+       position: relative;
+       left:5px;
+       top:18px;
+   }
